@@ -26,7 +26,7 @@ Install
 
 #### Run the following one liner as root
 ```
-wget --no-check-certificate https://raw.githubusercontent.com/stokes84/TeamSpeak-Installer/master/install.sh; bash install.sh; rm -f install.sh
+wget --no-check-certificate https://raw.githubusercontent.com/hemirox/TeamSpeak-Installer/master/install.sh; bash install.sh; rm -f install.sh
 ```
 <strong>Note:</strong> "SERVER" denotes the server name you set during install.<br/>
 <strong>Note:</strong> TeamSpeak application files are located @ /home/teamspeak/SERVER<br/>
